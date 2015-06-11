@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import Http404
 from pathlib import Path
 
-dir = "static/pages/"
+dir = "pages/"
 
 def select_page(request, page):
     try:
