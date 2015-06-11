@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Person">
+	<head>
+		<meta charset="utf-8" />
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+		<title>Roy Magen - {{ pagename }}</title>
+		<meta name="description" content="Personal website of Roy Magen." />
+		<meta name="author" content="Roy Magen" />
+		<meta itemprop="name" content="Roy Magen">
+		<meta itemprop="description" content="Roy Magen Website">
+		<meta itemprop="image" content="">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+
+		{% load staticfiles %}
+
+		<link href="{% static "CSS/stylesheet.css" %}" rel="stylesheet" type="text/css" />
+		<link rel="shortcut icon" href="{% static "Graphics/favicon.ico" %}" />
+		<link rel="apple-touch-icon" href="{% static "Graphics/logo-sw.png" %}" />
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="{% static "Javascript/script.js" %}"></script>
+
+	</head>
+
+	<body>
+		<noscript>
+			Please enable javascript
+		</noscript>
+
+		{% if links %}
+		<div id = "navbar">
+			<nav>
+				<ul>
+					{% for link in links %}
+					<li><a href="/{{ link }}">{{ link }}</a></li>
+					{% endfor %}
+				</ul>
+			</nav>
+		</div>
+		{% endif %}
+
+		<div id = "main">
+			<header>
+				<h1 id = "title">{{ header }}</h1>
+				<img src = "{% static "Graphics/logo-lb.png" %}" alt = "logo">
+			</header>
+
+			<div id = "content">
+				{% autoescape off %}
+				{{ content }}
+				{% endautoescape %}
+			</div>
+
+			<footer>
+				<!-- <div id = "g-plus"> -->
+					<div class="g-plus" data-height="69" data-href="//plus.google.com/115202908262710219674" data-rel="author"></div>
+					<div class="g-plus" data-height="69" data-href="//plus.google.com/103065839572869518759" data-rel="publisher"></div>
+				<!-- </div> -->
+				<p>
+					&copy; Copyright by Roy Magen
+				</p>
+			</footer>
+		</div>
+
+	</body>
+</html>

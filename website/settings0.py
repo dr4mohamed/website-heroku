@@ -1,5 +1,5 @@
 """
-Django settings for {{ project_name }} project on Heroku. Fore more info, see:
+Django settings for website project on Heroku. Fore more info, see:
 https://github.com/heroku/heroku-django-template
 
 For more information on this file, see
@@ -13,20 +13,19 @@ import os
 import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-#BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.8/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ce^%nw5a-qtmqog$r52c8at-u&uv3_&)$nwz^ipch-9=uvbd-4'
+SECRET_KEY = "n3uvqu2+%sq9!qyo43k(4fkv_$zb##qhufuok0=yyb3vn8b@rx"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#TEMPLATE_DEBUG = True
+TEMPLATE_DEBUG = True
 
 
 # Application definition
@@ -56,7 +55,7 @@ ROOT_URLCONF = 'website.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -112,7 +111,7 @@ STATIC_ROOT = 'staticfiles'
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, 'static'),
 )
 
 # Simplified static file serving.
