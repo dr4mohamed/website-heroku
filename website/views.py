@@ -11,7 +11,7 @@ def select_page(request, page):
         raise Http404("'{}' not found.".format(page))
 
     pagename = page
-    links = [p.name for p in Path(dir).iterdir()] # dirty fix for ordering
+    links = ["Home", "Links", "Applications"]
     header = page
     context = {
             "pagename" : pagename,
