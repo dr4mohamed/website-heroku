@@ -1,39 +1,6 @@
 <h1 align = "center">Website still under construction</h1>
-<!-- <br /> -->
-<div style = "display:none;">
-	<h3>Profiles</h3>
-	<ul style="list-style-type: none">
-		<li>
-			<a href="http://www.facebook.com/roy.magen.9" itemprop="url">Facebook</a>
-		</li>
-		<li>
-			<a href="http://www.youtube.com/user/ultimanteroy" itemprop="url">Youtube</a>
-		</li>
-		<li>
-			<a href="https://plus.google.com/115202908262710219674?rel=author" itemprop="url">Google+ (Personal)</a>
-		</li>
-		<li>
-			<a href="https://plus.google.com/103065839572869518759" rel="publisher" itemprop="url">Google+ (Page)</a>
-		</li>
-		<li>
-			<a href="https://twitter.com/roymagen" itemprop="url">Twitter</a>
-		</li>
-		<li>
-			<a href="ca.linkedin.com/pub/roy-magen/59/799/520/" itemprop="url">LinkedIn</a>
-		</li>
-		<li>
-			<a href="http://steamcommunity.com/id/magenroy/" itemprop="url">Steam</a>
-		</li>
-		<li>
-			<a href="https://compilr.com/magenroy" itemprop="url">Compilr</a>
-		</li>
-		<li>
-			<a href="http://profile.yahoo.com/CK2PMYJBUVOMEHTZW6PTSM6BGM/" itemprop="url">Yahoo!</a>
-		</li>
-	</ul>
-	<br />
-</div>
 
+<div class="text">
 <p>
 	<a href = "https://sites.google.com/a/roymagen.com/pictures/" style = "display:none;">Pictures</a>
 	<br />
@@ -144,3 +111,4 @@
 	laborum.
 
 </p>
+</div>
