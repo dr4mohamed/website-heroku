@@ -37,12 +37,16 @@ header {
 	overflow: hidden;
 }
 
-header img{
+/*header img{
 	float: right;
 	right: 0;
 	opacity: 0.4;
 	padding: 1%;
 	height: 2.5em;
+}*/
+
+#banner{
+	float: right;
 }
 
 #navbar {
