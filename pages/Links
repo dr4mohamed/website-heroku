@@ -1,71 +1,83 @@
 <ul>
-	<li> Funny
-		<ul>
-			<li>
-				<a href="http://math.univ-angers.fr/~darniere/bourbaki.html">
-				Canulars Bourbaki
-				</a>
-			</li>
-			<li>
-				<a
-				href="http://people.math.sfu.ca/~cbm/errh/101_analysis_bedtime_stories_(epsilon_red_riding_hood).pdf">
-				&#949-Red Riding Hood and the Big Bad Bolzano-Weierstrass
-				Theorem</a>
-			</li>
-			<li>
-				<a href="http://www.math.utah.edu/~cherk/mathjokes.html">Math Jokes</a>
-			</li>
-			<li>
-				<a href="https://www.cs.cmu.edu/~cangiuli/sigbovik/unintentional.pdf">
-				The (∞,1)-accidentopos model of unintentional type theory
-				</a>
-			</li>
-			<li>
-				<a href="http://sebpearce.com/bullshit/">
-				New Age Bullshit Generator
-				</a>
-			</li>
-			<li>
-				<a href="https://xkcd.com/263/">XKCD on math teachers</a>
-			</li>
-			<li>
-				<a href="https://youtu.be/ECQyFzzBHlo">
-				Jean-Pierre Serre on "How to write mathematics badly"
-				</a>
-			</li>
-			<li>
-				<a href="https://youtu.be/BipvGD-LCjU">
-				The Klein Four: "Finite Simple Group (of Order Two)"
-				</a>
-			</li>
-			<li>
-				<a href="https://www.youtube.com/watch?v=gXlfXirQF3A">
-				Tom Lehrer: "Lobachevsky"
-				</a>
-			</li>
-			<li>
-				<a href="https://en.wikipedia.org/wiki/Indiana_Pi_Bill">
-				Indiana Pi Bill
-				</a>
-			</li>
-			<li>
-				<a
-				href="https://www.reddit.com/r/math/comments/31tz88/anyone_have_any_advanced_math_pickup_lines/">
-				Reddit on "advanced math pickup lines"
-				</a>
-			</li>
-			<li>
-				<a
-				href="https://books.google.ca/books/about/Mathematics_Made_Difficult.html?id=C3jwAAAAMAAJ&redir_esc=y"
-				"Mathematics Made Difficult"
-				</a>
-			</li>
-		</ul>
+	<li>
+		<a href="http://math.univ-angers.fr/~darniere/bourbaki.html">
+		Canulars Bourbaki
+		</a>
+	</li>
+	<li>
+		<a
+		href="http://people.math.sfu.ca/~cbm/errh/101_analysis_bedtime_stories_(epsilon_red_riding_hood).pdf">
+		&#949-Red Riding Hood and the Big Bad Bolzano-Weierstrass
+		Theorem</a>
+	</li>
+	<li>
+		<a href="http://www.math.utah.edu/~cherk/mathjokes.html">Math Jokes</a>
+	</li>
+	<li>
+		<a href="https://www.cs.cmu.edu/~cangiuli/sigbovik/unintentional.pdf">
+		The (∞,1)-accidentopos model of unintentional type theory
+		</a>
+	</li>
+	<li>
+		<a href="http://sebpearce.com/bullshit/">
+		New Age Bullshit Generator
+		</a>
+	</li>
+	<li>
+		<a href="https://xkcd.com/263/">XKCD on math teachers</a>
+	</li>
+	<li>
+		<a href="https://youtu.be/ECQyFzzBHlo">
+		Jean-Pierre Serre on "How to write mathematics badly"
+		</a>
+	</li>
+	<li>
+		<a href="https://youtu.be/BipvGD-LCjU">
+		The Klein Four: "Finite Simple Group (of Order Two)"
+		</a>
+	</li>
+	<li>
+		<a href="https://www.youtube.com/watch?v=gXlfXirQF3A">
+		Tom Lehrer: "Lobachevsky"
+		</a>
+	</li>
+	<li>
+		<a href="https://en.wikipedia.org/wiki/Indiana_Pi_Bill">
+		Indiana Pi Bill
+		</a>
+	</li>
+	<li>
+		<a
+		href="https://www.reddit.com/r/math/comments/31tz88/anyone_have_any_advanced_math_pickup_lines/">
+		Reddit on "advanced math pickup lines"
+		</a>
+	</li>
+	<li>
+		<a
+		href="https://books.google.ca/books/about/Mathematics_Made_Difficult.html?id=C3jwAAAAMAAJ&redir_esc=y"
+		"Mathematics Made Difficult"
+		</a>
 	</li>
 	<li>
 		A modern mathematics paper in Latin:
 		<a href="http://link.springer.com/chapter/10.1007/0-8176-4478-4_18">
 		"Definitio nova algebroidis verticiani"
+		</a>
+	</li>
+	<li>
+		<a
+		href="http://www.cs.utexas.edu/users/arvindn/misc/knuth_song_complexity.pdf">
+		The Complexity of Songs
+		</a>
+	</li>
+	<li>
+		<a href="https://msu.edu/~choijay/etiquette.pdf">
+		Economics paper on toilet seat ettiquette
+		</a>
+	</li>
+	<li>
+		<a href="https://youtu.be/gG62zay3kck">
+		Rhabarberbarbara
 		</a>
 	</li>
 </ul>
