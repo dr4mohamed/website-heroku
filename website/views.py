@@ -14,10 +14,10 @@ def select_page(request, page):
     links = ["Home", "Links", "Applications"]
     header = page
     context = {
-            "pagename" : pagename,
-            "links" : links,
-            "header" : header,
-            "content" : content,
+            "pagename": pagename,
+            "links": links,
+            "header": header,
+            "content": content,
             }
     return render(request, "index.html", context)
 
